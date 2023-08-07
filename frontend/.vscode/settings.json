@@ -1,0 +1,53 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {"editor.defaultFormatter": "esbenp.prettier-vscode"},
+  "[typescript]": {
+    "editor.codeActionsOnSave": {
+      // "source.fixAll": true,
+      "source.fixAll.eslint": true
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.autoIndent": "advanced",
+  "editor.codeLens": true,
+  "editor.cursorBlinking": "solid",
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorStyle": "line",
+  "editor.fontLigatures": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": false,
+  "editor.letterSpacing": 0.5,
+  "editor.minimap.enabled": false,
+  "editor.renderWhitespace": "none",
+  "editor.tabCompletion": "on",
+  "editor.tabSize": 2,
+  "files.defaultLanguage": "typescript",
+  "files.exclude": {
+    "**/*.js": {"when": "$(basename).ts"},
+    "**/*.js.map": {"when": "$(basename)"},
+    "**/.git": true
+  },
+  "files.trimTrailingWhitespace": true,
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "workbench.settings.enableNaturalLanguageSearch": false,
+  "telemetry.enableTelemetry": false,
+  "telemetry.enableCrashReporter": false,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "prettier.semi": false,
+  "prettier.printWidth": 100,
+  "prettier.singleQuote": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.useEditorConfig": false,
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "typescript.format.semicolons": "remove",
+  "javascript.format.semicolons": "remove",
+  "git.autofetch": true,
+  "prettier.trailingComma": "all",
+  "[html]": {"editor.defaultFormatter": "esbenp.prettier-vscode"},
+  "prettier.arrowParens": "avoid",
+  "javascript.implicitProjectConfig.experimentalDecorators": true,
+  "git.ignoreLimitWarning": true,
+  "java.configuration.updateBuildConfiguration": "automatic"
+}

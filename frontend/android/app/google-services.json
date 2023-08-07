@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "982446765859",
+    "firebase_url": "https://tradycoon-3fb5c-default-rtdb.firebaseio.com",
+    "project_id": "tradycoon-3fb5c",
+    "storage_bucket": "tradycoon-3fb5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982446765859:android:319e96bd63938e41fa3e96",
+        "android_client_info": {
+          "package_name": "com.tradycoon.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982446765859-0fgbd81degbv8gl5hopjsmf2jl5s9ptk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tradycoon.app",
+            "certificate_hash": "3e44f1afa709e7fc4f2a9b9a967d282a8b76041e"
+          }
+        },
+        {
+          "client_id": "982446765859-4o2knimahp6fihmukhoot9aha5mrkopd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tradycoon.app",
+            "certificate_hash": "0488f23843789a479558e16ca61523d323b88e6d"
+          }
+        },
+        {
+          "client_id": "982446765859-tdcmn5evh419g37m9iqb4ntg7t2scj56.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tradycoon.app",
+            "certificate_hash": "9a6756fd85cbd903568870d5e3d738891115d7a3"
+          }
+        },
+        {
+          "client_id": "982446765859-9on45sl3smphugmdehpbf62t7887516s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkhq00p5-PWPg5bGqswDfRwSLQaq6TdT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982446765859-9on45sl3smphugmdehpbf62t7887516s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "982446765859-qtk6ivo6uvdvgpjrgkb2vuoej9e0l78u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.frontend"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
